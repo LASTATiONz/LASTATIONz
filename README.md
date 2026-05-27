@@ -201,7 +201,7 @@ I am especially interested in roles where I can work on:
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/teepakorn-sudjaimai-554b62350/" target="_blank">
+  <a href="www.linkedin.com/in/teepakorn-sudjaimai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Teepakorn%20Sudjaimai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Thailand-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Thailand" />
