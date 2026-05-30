@@ -68,7 +68,6 @@ Currently, I am looking for new opportunities in:
 
 <p>
   <img src="https://img.shields.io/badge/LINE_API-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE API" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/SMTP_Email-A6A6A6?style=for-the-badge&logo=gmail&logoColor=white" alt="SMTP Email" />
   <img src="https://img.shields.io/badge/Webhooks-1A73E8?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
   <img src="https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration" />
@@ -89,7 +88,6 @@ Currently, I am looking for new opportunities in:
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/AI_Assisted_Development-111827?style=for-the-badge&logo=probot&logoColor=white" alt="AI Assisted Development"/>
 
 
@@ -97,7 +95,7 @@ Currently, I am looking for new opportunities in:
 
 - AI-assisted software development and technical problem-solving
 - Prompt engineering for coding, debugging, documentation, and workflow design
-- Using ChatGPT, Gemini, and Claude to support refactoring, system analysis, and solution planning
+- Using ChatGPT, Gemini to support refactoring, system analysis, and solution planning
 - Applying AI tools to improve development speed, code quality, and technical decision-making
 
 ---
@@ -119,9 +117,6 @@ My main strengths include:
 ---
 
 ## Current Focus
-
-### System Modernization
-Refactoring and upgrading legacy ERP and internal systems from **PHP 5.x** to modern, secure, and higher-performance **PHP 8.2** architecture.
 
 ### Logistics Automation
 Building integrated systems for fleet management, fuel tracking, mileage control, purchase request workflows, and operational reporting.
