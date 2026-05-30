@@ -2,7 +2,7 @@
 
 ### IT Administrator | Web Developer | System Modernization & Logistics Automation
 
-I am an IT professional and web developer with **7+ years of experience in FMCG logistics and enterprise system operations**, especially in high-demand distribution environments related to **P&G logistics operations**.
+I am an IT professional and web developer with **7+ years of experience in FMCG(Fast-Moving Consumer Goods) logistics and enterprise system operations**, especially in high-demand distribution environments related to **P&G logistics operations**.
 
 My work focuses on building, maintaining, and modernizing internal business systems that improve operational efficiency, reduce manual work, and support reliable day-to-day business processes.
 
